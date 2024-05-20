@@ -6,7 +6,17 @@ In this task you have to:
 
 Assign your name and your favourite food to 2 separate variables with suitable names.
 
-Output the contents of the variables on 2 separate lines
+Output the contents of the variables on 2 separate lines, then on ONE single line using f-string concatonation.
+
+## Use the f-string to concatonate your print statements
+
+```
+# using f-strings
+fname="Lana"
+eyeColour="blue"
+
+print(f'Hello {fname}, what lovely {eyeColour} eyes you have.')
+```
 
 ## Extension Task 1
 
