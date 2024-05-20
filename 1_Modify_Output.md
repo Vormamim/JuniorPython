@@ -1,6 +1,11 @@
 ## Output - Modify
 
-```print('Dude, I almost had you')```
+```
+print('Dude, I almost had you')
+# this is a comment, it does nothing functional
+# a comment tells other people what this part of the code does
+# comments help programmers know what other programmers are doing
+```
 
 ## Your Task
 
